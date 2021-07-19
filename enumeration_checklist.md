@@ -24,7 +24,7 @@
 
 - Try the most stupid things, even the username as password, productname:productname servicename:servicename
 
-- Password Brute forcing ? Start with a custom wordlist if possible (cewl -m 4 http://127.0.0.1/somesite.php)
+- Password Brute forcing ? Start with a custom wordlist if possible (cewl -m 4 http://127.0.0.1/somepage.php)
 
 - The vulnerability exists, you just have to find it. The strategy has for sure been listed in exploit db, there's nothing new here.
 
