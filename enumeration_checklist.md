@@ -54,7 +54,3 @@ Automeated enumeration with Autorecon: https://github.com/Tib3rius/AutoRecon
 -  Pay very close attention to which CVE's I'm looking, sometime the numbers are very similar and tired eyes don't help
 
 - Exploit suggester (WES-NG etc) does not always show you all the available exploits, sometimes you need to google the OS and version for priv esc, eg "windows xp servcice pack 1 privilege escalation", "windows server 2008 SP1 privilege escalation" etc
-
-### Windows Privilege Escalation
-
-### Linux Privilege Escalation
