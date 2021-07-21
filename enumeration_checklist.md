@@ -38,6 +38,11 @@
 
 - Have problems with the code execution? -- Url encode properly, check backslashes in windows and also try double back slashes and forward slashes, other types of encoding/bypassing filters or whitelists etc
 
+Helpful enumeration tips and explanation of most common ports and services
+
+- https://book.hacktricks.xyz/
+- https://github.com/swisskyrepo/PayloadsAllTheThings
+
 Full SQL injection cheat sheet:
 
 - MYSQL: https://www.exploit-db.com/papers/13045
@@ -45,7 +50,6 @@ Full SQL injection cheat sheet:
 - MSSQL: https://www.exploit-db.com/papers/12975
 
 Automeated enumeration with Autorecon: https://github.com/Tib3rius/AutoRecon
-
 
 - Privilege Escalation:
 
